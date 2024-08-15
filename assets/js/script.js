@@ -43,7 +43,7 @@ function nearbySearch(lat, lng, keyword) {
   fetch(url, {
     method: "GET",
     headers: {
-      Origin: "https://breannacamacho.github.io/Nomad/",
+      Origin: "https://jreeve65.github.io/Nomad/",
       "X-Requested-With": "XMLHttpRequest",
     },
   })
