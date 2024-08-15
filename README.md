@@ -1,4 +1,4 @@
-# Nomad
+# Nomad v 1.0.0
 <div align="center">
 
   <!-- Add badges using the following format: -->
